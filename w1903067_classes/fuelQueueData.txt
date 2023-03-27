@@ -1,0 +1,88 @@
+
+-------------Queue No. 1-------------
+⛽ Fuel Queue - 1 Slot - 1:
+Name: 3rg 4rtg
+Vehicle Number: 34rt
+Litres required: 23
+
+⛽ Fuel Queue - 1 Slot - 2:
+Name: 3rgt 4trg
+Vehicle Number: 4t5rg
+Litres required: 34
+
+⛽ Fuel Queue - 1 Slot - 3:
+Name: 4rtg 4r5tg
+Vehicle Number: 5t
+Litres required: 34
+
+⛽ Fuel Queue - 1 Slot - 4:
+Name: luna erne
+Vehicle Number: 4b5
+Litres required: 22
+
+⛽ Fuel Queue - 1 Slot - 5:
+Name: rg4rtg 4r
+Vehicle Number: 4rt
+Litres required: 234
+
+⛽ Fuel Queue - 1 Slot - 6:
+Name: rgrt 4rt
+Vehicle Number: 4r
+Litres required: 23
+
+
+-------------Queue No. 2-------------
+⛽ Fuel Queue - 2 Slot - 1:
+Empty 
+⛽ Fuel Queue - 2 Slot - 2:
+Empty 
+⛽ Fuel Queue - 2 Slot - 3:
+Empty 
+⛽ Fuel Queue - 2 Slot - 4:
+Empty 
+⛽ Fuel Queue - 2 Slot - 5:
+Empty 
+⛽ Fuel Queue - 2 Slot - 6:
+Empty 
+
+-------------Queue No. 3-------------
+⛽ Fuel Queue - 3 Slot - 1:
+Empty 
+⛽ Fuel Queue - 3 Slot - 2:
+Empty 
+⛽ Fuel Queue - 3 Slot - 3:
+Empty 
+⛽ Fuel Queue - 3 Slot - 4:
+Empty 
+⛽ Fuel Queue - 3 Slot - 5:
+Empty 
+⛽ Fuel Queue - 3 Slot - 6:
+Empty 
+
+-------------Queue No. 4-------------
+⛽ Fuel Queue - 4 Slot - 1:
+Empty 
+⛽ Fuel Queue - 4 Slot - 2:
+Empty 
+⛽ Fuel Queue - 4 Slot - 3:
+Empty 
+⛽ Fuel Queue - 4 Slot - 4:
+Empty 
+⛽ Fuel Queue - 4 Slot - 5:
+Empty 
+⛽ Fuel Queue - 4 Slot - 6:
+Empty 
+
+-------------Queue No. 5-------------
+⛽ Fuel Queue - 5 Slot - 1:
+Empty 
+⛽ Fuel Queue - 5 Slot - 2:
+Empty 
+⛽ Fuel Queue - 5 Slot - 3:
+Empty 
+⛽ Fuel Queue - 5 Slot - 4:
+Empty 
+⛽ Fuel Queue - 5 Slot - 5:
+Empty 
+⛽ Fuel Queue - 5 Slot - 6:
+Empty 
